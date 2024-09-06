@@ -4,12 +4,11 @@ import "../styles/globals.css";
 
 import { cn } from "@/lib/utils";
 import { ThemeProvider } from "@/provider/theme-provider";
-import ThemeDropdown from "@/components/theme-dropdown";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Toolkit",
+  title: "Welcome",
   description: "Toolkit by Horizon",
 };
 
